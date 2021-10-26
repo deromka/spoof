@@ -1,6 +1,5 @@
 # spoof
 Pre-Requisite:
 
-spoof-mac
-
-brew install spoof-mac
+# npm install spoof -g
+# nmap
